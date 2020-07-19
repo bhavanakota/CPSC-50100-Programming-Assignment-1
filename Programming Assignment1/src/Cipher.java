@@ -42,7 +42,6 @@ public class Cipher {
 			FirstNumber = scan.nextInt();
 
 			if (FirstNumber < 0 || FirstNumber > 19 ) {
-
 				System.out.println("Please read directions and try again!");
 				System.exit(0);
 			}
@@ -52,7 +51,6 @@ public class Cipher {
 			SecondNumber = scan.nextInt();
 
 			if (SecondNumber  < 0 || SecondNumber  > 19) {
-
 				System.out.println("Please read directions and try again!");
 				System.exit(0);
 			}
@@ -72,7 +70,6 @@ public class Cipher {
 			FourthNumber = scan.nextInt();
 
 			if (FourthNumber < 0 || FourthNumber > 19) {
-
 				System.out.println("Please read directions and try again!");
 				System.exit(0);
 			}
@@ -82,7 +79,6 @@ public class Cipher {
 			FifthNumber = scan.nextInt();
 
 			if (FifthNumber < 0 || FifthNumber > 19) {
-
 				System.out.println("Please read directions and try again!");
 				System.exit(0);
 			}
